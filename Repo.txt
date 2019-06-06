@@ -4,3 +4,7 @@ Today is wednesday
 Hello GIT
 
 HELLO!!
+
+Goodbye GIT
+
+GOODBYE!!!
